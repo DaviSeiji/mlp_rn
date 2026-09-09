@@ -1,4 +1,3 @@
-# mlp_rn
 # Projeto 1 – Rede MLP
 
 Projeto desenvolvido para a Unidade Curricular de **Redes Neurais**, com o objetivo de estudar o comportamento de **Redes Neurais Multicamadas (MLP – Multilayer Perceptron)** em problemas de **classificação** e **regressão**, utilizando **Python** e **PyTorch**.
