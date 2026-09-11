@@ -1,0 +1,32 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Dataset downloaded locally
+# Fashion-MNIST data should be downloaded under data/fashion_mnist
+# and can be safely ignored from git
+/data/fashion_mnist/
+data/fashion_mnist/
+
+# Jupyter notebooks execution artifacts
+.ipynb_checkpoints/
+
+# VS Code / editor artifacts
+.vscode/
+
+# OS and environment
+.DS_Store
+Thumbs.db
+
+# Results and logs
+results/
+*.log
+
+# Extra dependency caches
+*.egg-info/
